@@ -8,6 +8,6 @@ if ($_POST['code'] === $validCode) {
     );
     echo json_encode($response);
 } else {
-    echo "ko có gì";
+    echo "ko có hmm";
 }
 ?>
